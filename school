@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Mystical Memes</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+</head>
+<body>
+<header class="w3-container w3-center w3-padding-32 w3-blue-grey"> 
+  <h1><b>Mystical Memes</b></h1>
+  <p>A Collection of <span class="w3-white">Memes</span> and <span class="w3-white">Nothing else </span></p>
+</header>
+
+ <div class="w3-middle">
+   <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="https://npinon2026.github.io/npinon2026-memes/" class="w3-bar-item w3-button">Mystical Memes</a>
+    <div class="w3-right w3-hide-small">
+      <a href="https://npinon2026.github.io/npinon2026-memes/school.html" class="w3-bar-item w3-button">School</a>
+      <a href="https://npinon2026.github.io/npinon2026-cafe/love.html" class="w3-bar-item w3-button">Love</a>
+    </div>
+ </div>
+ </div>
+
+<section class="w3-card w3-center w3-padding-32 w3-center">
+     <h2>School Memes!</h2>
+</section>
+
+<div class="w3-middle w3-row-padding w3-padding-16">
+
+<div class="w3-third">
+  <div class="w3-card w3-margin">
+    <img src="https://i.pinimg.com/236x/d0/91/97/d09197202480d002273b332d379c57a7.jpg" alt="1st" style="width:100%">
+    <div class="w3-container w3-white">
+      <p>To the subject examinations that include calculations, looking at you Math, Physics, Chemistry. Please have pity on my poor brain 
+        that has suffered from 2 years of neglect and procrastination.
+      </p>
+    </div>
+  </div>
+  </div>
+    
+  <div class="w3-third">
+  <div class="w3-card w3-margin">
+    <img src="https://i.pinimg.com/564x/a5/10/ec/a510ec830bf9ac14df7452d339cba0c9.jpg" alt="2nd" style="width:100%">
+    <div class="w3-container w3-white">
+      <p>Inspiration and motivation goes to 0 when faced with dues and requirements. If only a certain someone were to return to my life then maybe I'd have the 
+        willpower to do everything all at once. Until then, I'll be doing my reqs on the day it dues.
+      </p>
+    </div>
+  </div>
+  </div>
+
+  <div class="w3-third">
+  <div class="w3-card w3-margin">
+    <img src="https://i.pinimg.com/236x/37/dd/29/37dd29292cd8dbd00a4008ab3f8cafd7.jpg" alt="3rd" style="width:100%">
+    <div class="w3-container w3-white">
+      <p>It has to be even and exact, that's just an unwritten rule. No one knows what'll happen if you'll get against it and no one dares to try 
+        test it. I'd rather just do it at 7:30 to be honest.
+      </p>
+    </div>
+  </div>
+  </div>
+  </div>
+
+<div class="w3-middle w3-row-padding w3-padding-16">
+
+<div class="w3-third">
+  <div class="w3-card w3-margin">
+    <img src="https://i.pinimg.com/564x/da/c2/74/dac2749801387b14e6e1afa8c00676bc.jpg" alt="4th" style="width:100%">
+    <div class="w3-container w3-white">
+      <p>All is well that ends well, pressing that submit button at the ripe time of 3:00 makes finishing the due all the more satisfying. Nevermind the eyebugs, 
+        oily skin, and almost dying mental health. All is well.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="w3-third">
+  <div class="w3-card w3-margin">
+    <img src="https://i.pinimg.com/564x/59/b7/a2/59b7a2f0bb23fa325aa8fd2a3e8dffe6.jpg" alt="5th" style="width:100%">
+    <div class="w3-container w3-white">
+      <p>I wouldn't mind if this were to happen, but in all honesty, if I just had the mental capacity to care enough I'd be bawling my eyes out. That being said, I have no idea if 
+        those tears would be for joy, sadness, or just because of the lack of sleep.
+      </p>
+    </div>
+  </div>
+  </div>
+    
+  <div class="w3-third">
+  <div class="w3-card w3-margin">
+    <img src="https://i.pinimg.com/564x/f4/cb/07/f4cb07cab62708134beab8bf96e3f9f4.jpg" alt="6th" style="width:100%">
+    <div class="w3-container w3-white">
+      <p>How can I be all but number 1? Take my physics exam as an example, 5 minutes in and I just went and calculated what the passing score would be because believe me, I knew 
+        I failed.
+      </p>
+    </div>
+  </div>
+  </div>
+</div>
+
+<footer class="w3-container w3-blue-grey w3-padding-32 w3-margin-top w3-center">
+  <p>©2022 Mystical Memes</p>
+</footer>
